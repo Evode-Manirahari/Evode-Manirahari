@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI and tech-driven startup ideas
 - 📫 How to reach me  evode.manirahari@student.mendocino.edu 
 - 😄 Pronouns:  He/Him
-- ⚡ Fun fact: I believe life is a game, and I'm determined to be the best player ever!
+- ⚡ Fun fact: I like building cool open source.
 
 <!---
 Evode-Manirahari/Evode-Manirahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
