@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Evode-Manirahari
-- 👀 I’m interested in Machine Learning, VR, XR, AR, Web 3.0, Quantum Computing, and AI
-- 🌱 I’m currently learning advanced AI models and developing innovative tech projects
-- 💞️ I’m looking to collaborate on AI and tech-driven startup ideas
-- 📫 How to reach me  evode.manirahari@student.mendocino.edu 
-- 😄 Pronouns:  He/Him
-- ⚡ Fun fact: I like building cool open source.
+Hi, I'm Evode Manirahari, a dedicated Software/AI/ML Engineer. Contributing to the open-source projects. Seeking to turn Challenges into ground breaking solutions.
 
 <!---
 Evode-Manirahari/Evode-Manirahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
