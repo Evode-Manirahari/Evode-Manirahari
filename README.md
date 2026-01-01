@@ -1,4 +1,4 @@
-Hi, I'm Evode Manirahari, a dedicated Software/AI/ML Engineer. Contributing to the open-source projects and build useful stuffs. Seeking to turn Challenges into ground breaking solutions.
+Hi, I'm Evode Manirahari, a dedicated Software/AI/ML Engineer. Contributing to the opensource projects and build useful stuffs. Seeking to turn Challenges into ground breaking solutions.
 
 <!---
 Evode-Manirahari/Evode-Manirahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
