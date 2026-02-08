@@ -1,6 +1,12 @@
-Hi, I'm Evode Manirahari, a dedicated Software/AI/ML Engineer. Contributing to the opensource projects and build useful stuffs. Seeking to turn Challenges into ground breaking solutions.
+# 💫 About Me:
+I’m a Computer Science student and builder focused on artificial intelligence and real-world problem solving. I believe in learning by doing—designing, building, and shipping projects that matter.<br><br>I’m deeply interested in AI, machine learning, AIoT, and emerging technologies, with a long-term goal of becoming a founder and inventor.
 
-<!---
-Evode-Manirahari/Evode-Manirahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= Evode-Manirahari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= Evode-Manirahari&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= Evode-Manirahari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id= Evode-Manirahari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
