@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a Computer Science student and builder focused on artificial intelligence and real-world problem solving. I believe in learning by doing—designing, building, and shipping projects that matter.<br><br>I’m deeply interested in AI, machine learning, AIoT, and emerging technologies, with a long-term goal of becoming a founder and inventor.<br>
+I’m a Computer Science student building at the intersection of AI, ML, and AIoT. I’m driven by solving real problems, creating useful products, and learning through execution.
+
+**Build it. Ship it. Repeat.**
 
 
 # 💻 Tech Stack:
