@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: lifelong learner
 **Build it. Ship it. Repeat.**
 
 ### ✍️ Random Dev Quote
